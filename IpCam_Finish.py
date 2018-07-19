@@ -70,7 +70,7 @@ class ipcamCapture:
 
 
         
-URL = "rtsp://hladmin:hl27893389@192.168.10.199:88/videoMain"
+URL = "rtsp://ID:password@192.168.10.199:88/videoMain"
 
 
 
